@@ -1,22 +1,14 @@
 #!/bin/bash
-# coded by: github.com/thelinuxchoice/saycheese
-# Modified by: github.com/kinghacker0/WishPhish
+# coded by: github.com/Arvindkumar0305/caronaa
+# Modified by: github.com/Arvindkumar0305/caronaa
 # If you use any part from this code, giving me the credits. Read the Lincense!
 
 trap 'printf "\n";stop' 2
 
-banner() {
+banner()
 
 
-printf "\e░██╗░░░░░░░██╗██╗░██████╗██╗░░██╗███████╗██╗░██████╗██╗░░██╗\n"
-printf "\e░██║░░██╗░░██║██║██╔════╝██║░░██║██╔════╝██║██╔════╝██║░░██║\n"
-printf "\e░╚██╗████╗██╔╝██║╚█████╗░███████║█████╗░░██║╚█████╗░███████║\n"
-printf "\e░░████╔═████║░██║░╚═══██╗██╔══██║██╔══╝░░██║░╚═══██╗██╔══██║\n"
-printf "\e░░╚██╔╝░╚██╔╝░██║██████╔╝██║░░██║██║░░░░░██║██████╔╝██║░░██║\n"
-printf "\e░░░╚═╝░░░╚═╝░░╚═╝╚═════╝░╚═╝░░╚═╝╚═╝░░░░░╚═╝╚═════╝░╚═╝░░╚═╝\n"
-
-printf " \e[1;77m website :- www.hackersking.in \e[0m \n"
-printf " \e[1;77m v1.1 Modified by github.com/kinghacker0/wishfish\e[0m \n"
+printf " \e[1;77m v1.1 Modified by github.com/Arvindkumar0305/caronaa\e[0m \n"
 
 printf "\n"
 
