@@ -5,7 +5,11 @@
 
 trap 'printf "\n";stop' 2
 
-banner()
+banner() {
+
+
+printf "\e🄲🄰🅁🄾🄽🄰\n"
+
 printf "\n"
 
 
