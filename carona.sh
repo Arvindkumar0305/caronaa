@@ -6,10 +6,6 @@
 trap 'printf "\n";stop' 2
 
 banner()
-
-
-printf " \e[1;77m v1.1 Modified by github.com/Arvindkumar0305/caronaa\e[0m \n"
-
 printf "\n"
 
 
